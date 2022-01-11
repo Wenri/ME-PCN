@@ -1,8 +1,8 @@
 # ME-PCN: Point Completion Conditioned on Mask Emptiness
 
-[[paper]](https://arxiv.org/abs/2108.08187)
+[[paper]](https://arxiv.org/abs/2108.08187) [[slides]](assets/slides.pdf)
 
-![](poster.png)
+![](assets/poster.png)
 
 ME-PCN is a point completion network that leverages emptiness
 in 3D shape space. It encodes both the occupied point cloud and the
